@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "http://whizzplorers.com/"
+url: "https://whizzplorers.com/"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Whizzplorers                                   # site's title

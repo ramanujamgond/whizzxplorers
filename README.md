@@ -9,7 +9,7 @@ A free and open-source [Jekyll](https://jekyllrb.com) theme. Based on Rohan Chan
 * Responsive design
 * Portfolio page for your projects
 * Tags compatibility
-* Bootstrap : [Get Bootstrap](http://getbootstrap.com/)
+* Bootstrap : [Get Bootstrap](https://getbootstrap.com/)
 * Search feature : [Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search)
 * Math Rendering : [KateX](https://github.com/Khan/KaTeX)
 * Nice fonts : [Font Awesome](https://fontawesome.com/), [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro), [Pacifico](https://fonts.google.com/specimen/Pacifico?selection.family=Pacifico) 
